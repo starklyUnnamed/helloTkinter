@@ -1,0 +1,1 @@
+This repository hosts the code of beginner working with Tkinter. This code was create using the tutorials found at https://realpython.com/python-gui-tkinter/ 
